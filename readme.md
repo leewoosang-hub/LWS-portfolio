@@ -1,11 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46B8FF&height=200&section=header&text=LEEWOOSANG'S%20PORTFOLIO&fontSize=40&animation=fadeIn&fontAlign=67&fontAlignY=36" />
 
 <div>
-  <h3>👋<strong>&nbsp INTRO</strong></h3>
-   慣れていない技術は積極的に自分のものにします。<br>
-   慣れている技術は慢心することなく研鑽を積みます。<br>
-   自分の事を磨く<strong>イウサン</strong>と申します。<br>
-   もっと詳しい情報はこちらへどうぞ<a href=""></a>
+    <h3>👋<strong>&nbsp INTRO</strong></h3>
+
+  
+    慣れていない技術は積極的に自分のものにします。
+    慣れている技術は慢心することなく研鑽を積みます。
+    自分の事を磨く<strong>イウサン</strong>と申します。
+    もっと詳しい情報はこちらへどうぞ
+
+   
 </div>
   <hr>
 <div>
@@ -28,17 +32,19 @@
 </div>
   <hr>
 
-  
-<div>
-  <h2>📚<strong>&nbsp PROJECT</strong></h2>
-  <h4>&nbsp🖥 project : collavore</h4>
-  <h5>&nbsp&nbsp&nbsp開発動機　： 同一のプラットフォームで作業行う事で業務の効率を最大化する為開発しました。</h5>
-  <h5>&nbsp&nbsp&nbsp概　　要　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、企画管理などを
-                                 <br>&nbsp&nbsp&nbsp提供しています。</h5>
-  <h5>&nbsp&nbsp&nbsp開発期間　： 2024.09.30 - 2024.11.13</h5>
-  <h5>&nbsp&nbsp&nbsp担　　当　： 電子決裁管理</h5>
-  <h5>&nbsp&nbsp&nbspコ　ー　ド： &nbsp<a href="https://github.com/leewoosang-hub/CollaVore/tree/master/demo/src/main/java/com/collavore/app/approvals">電子決裁コード</a></h5>
-</div>
+
+<h3>📚　<strong>&nbsp PROJECT</strong></h3>
+&nbsp🖥 project : collavore
+
+      
+      開発動機　： 同一のプラットフォームで作業行う事で業務の効率を最大化する為開発しました。
+      概　　要　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、企画管理などを提供しています。
+      開発期間　： 2024.09.30 - 2024.11.13
+      担　　当　： 電子決裁管理
+
+    
+ <h5>&nbsp&nbsp&nbspコ　ー　ド： &nbsp<a href="https://github.com/leewoosang-hub/CollaVore/tree/master/demo/src/main/java/com/collavore/app/approvals">電子決裁コード</a></h5>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46B8FF&height=200&section=footer&20render&fontSize=90" />
