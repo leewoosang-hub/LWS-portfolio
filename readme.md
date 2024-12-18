@@ -28,9 +28,12 @@
 </div>
   <hr>
 <div>
-  <h3>📚<strong>&nbsp PROJECT</strong></h3>
-  <h4>🖥 project : collavore</h4>
-  <h5>&nbsp 概要　： </h5>
+  <h2>📚<strong>&nbsp PROJECT</strong></h2>
+  <h4>&nbsp🖥 project : collavore</h4>
+  <h5>&nbsp&nbsp&nbsp開発動機　： 同一のプラットフォームで作業行う事で業務の効率を最大化する為開発しました。</h5>
+  <h5>&nbsp&nbsp&nbsp概　　要　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、</h5>
+  <h5>&nbsp&nbsp&nbsp開発期間　： 2024.09.30 - 2024.11.13</h5>
+  <h5>&nbsp&nbsp&nbsp担　　当　： 電子決裁管理</h5>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46B8FF&height=200&section=footer&20render&fontSize=90" />
