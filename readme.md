@@ -27,15 +27,18 @@
     <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
   <hr>
+
+  
 <div>
   <h2>📚<strong>&nbsp PROJECT</strong></h2>
   <h4>&nbsp🖥 project : collavore</h4>
   <h5>&nbsp&nbsp&nbsp開発動機　： 同一のプラットフォームで作業行う事で業務の効率を最大化する為開発しました。</h5>
   <h5>&nbsp&nbsp&nbsp概　　要　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、企画管理などを
-                                 提供しています。</h5>
+                                 <br>&nbsp&nbsp&nbsp提供しています。</h5>
   <h5>&nbsp&nbsp&nbsp開発期間　： 2024.09.30 - 2024.11.13</h5>
   <h5>&nbsp&nbsp&nbsp担　　当　： 電子決裁管理</h5>
   <h5>&nbsp&nbsp&nbspコ　ー　ド： &nbsp<a href="https://github.com/leewoosang-hub/CollaVore/tree/master/demo/src/main/java/com/collavore/app/approvals">電子決裁コード</a></h5>
 </div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46B8FF&height=200&section=footer&20render&fontSize=90" />
