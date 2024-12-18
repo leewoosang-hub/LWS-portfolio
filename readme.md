@@ -34,7 +34,7 @@
 <h3>📚　<strong>&nbsp PROJECT</strong></h3>
  <h3>🖥 project : collavore </h3>
  <strong>&nbsp&nbsp開発動機　： 同一のプラットフォームで作業行う事で業務の効率を最大化する為開発しました。</strong><br>
- <strong>&nbsp&nbsp概　　要　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、 <br>企画管理などを提供します。</strong><br>
+ <strong>&nbsp&nbsp概　　要　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、 <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp企画管理などを提供します。</strong><br>
  <strong>&nbsp&nbsp開発期間　： 2024.09.30 - 2024.11.13</strong><br>
  <strong>&nbsp&nbsp担　　当　： 電子決裁管理</strong><br>
  <strong>&nbsp&nbsp&nbsp&nbspコード&nbsp&nbsp&nbsp&nbsp   ： <a href="https://github.com/leewoosang-hub/CollaVore/tree/master/demo/src/main/java/com/collavore/app/approvals">電子決裁コード</a></strong>
