@@ -34,7 +34,7 @@
   <h5>&nbsp&nbsp&nbsp概　　要　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、企画管理などを提供しています。</h5>
   <h5>&nbsp&nbsp&nbsp開発期間　： 2024.09.30 - 2024.11.13</h5>
   <h5>&nbsp&nbsp&nbsp担　　当　： 電子決裁管理</h5>
-  <h5>&nbsp&nbsp&nbspコ　ー　ド：&nbsp<a href="https://github.com/leewoosang-hub/CollaVore/tree/master/demo/src/main/java/com/collavore/app/approvals">電子決裁コード</a></h5>
+  <h5>&nbsp&nbsp&nbspコ　ー　ド： &nbsp<a href="https://github.com/leewoosang-hub/CollaVore/tree/master/demo/src/main/java/com/collavore/app/approvals">電子決裁コード</a></h5>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46B8FF&height=200&section=footer&20render&fontSize=90" />
