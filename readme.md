@@ -25,9 +25,11 @@
     <img alt="oracle" src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <br>
     <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <br>
+    <img alt="eclipseide" src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 </div>
   <hr>
-<h3>📚　<strong>&nbsp PROJECT</strong></h3>
+<h3>📚<strong>&nbsp PROJECT</strong></h3>
  <h3>🖥 project : collavore </h3>
  <strong>&nbsp&nbsp開発動機</strong>　： 同一のプラットフォームで作業行う事で業務の効率を最大化する為開発しました。<br>
  <strong>&nbsp&nbsp概　　要</strong>　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、 <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp企画管理などを提供します。<br>
