@@ -5,7 +5,7 @@
     慣れていない技術にも積極的に取り組み、自分のものに出来るように努めます。<br>
     得意な技術は慢心することなく研鑽を重ね更なる向上を目指します。<br>
     自己生成を大切にしている<strong><I>イ・ウサン</I></strong>と申します。<br>
-    更に詳しい情報はこちらへどうぞ
+    更に詳しい情報はこちらへどうぞ <img alt="profile" src="https://img.shields.io/badge/E34F26?style=for-the-badge&logo=profile&logoColor=white">
 </div>
   <hr>
 <div>
@@ -34,6 +34,7 @@
  <strong>&nbsp&nbsp開発動機</strong>　： 同一のプラットフォームで作業行う事で業務の効率を最大化する為開発しました。<br>
  <strong>&nbsp&nbsp概　　要</strong>　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、 <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp企画管理などを提供します。<br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.09.30 - 2024.11.13<br>
+ <strong>&nbsp&nbsp開発環境</strong>　： <br>
  <strong>&nbsp&nbsp担　　当</strong>　： 電子決裁管理</strong><br>
  <strong>&nbsp&nbsp詳　　細</strong>&nbsp&nbsp&nbsp&nbsp： <a href="https://github.com/leewoosang-hub/CollaVore/tree/master">電子決裁詳細</a>
 
