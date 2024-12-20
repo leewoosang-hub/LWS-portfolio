@@ -6,7 +6,10 @@
     得意な技術は慢心することなく研鑽を重ね更なる向上を目指します。<br>
     自己生成を大切にしている<strong><I>イ・ウサン</I></strong>と申します。<br>
     更に詳しい情報はこちらへどうぞ <br>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Ffbccf4267b5d4c0a9ce19db384ceac5f&count_bg=%234C55DB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE&edge_flat=false"/></a>
+    <a href="(https://www.notion.so/fbccf4267b5d4c0a9ce19db384ceac5f">
+    <img src="https://img.shields.io/badge/ Profile-Notion-<COLOR>"
+        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
+</a>
 </div>
   <hr>
 <div>
