@@ -5,7 +5,8 @@
     慣れていない技術にも積極的に取り組み、自分のものに出来るように努めます。<br>
     得意な技術は慢心することなく研鑽を重ね更なる向上を目指します。<br>
     自己生成を大切にしている<strong><I>イ・ウサン</I></strong>と申します。<br>
-    更に詳しい情報はこちらへどうぞ <img alt="profile" src="https://img.shields.io/badge/E34F26?style=for-the-badge&logo=profile&logoColor=white">
+    更に詳しい情報はこちらへどうぞ <br>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Ffbccf4267b5d4c0a9ce19db384ceac5f&count_bg=%234C55DB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE&edge_flat=false"/></a>
 </div>
   <hr>
 <div>
