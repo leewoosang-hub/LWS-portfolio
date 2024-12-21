@@ -33,7 +33,7 @@
     <img alt="eclipseide" src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
     <img alt="VScode" src="https://img.shields.io/badge/VScode-2C2255?style=for-the-badge&logo=VScode&logoColor=white">
 </div>
-  <hr>
+ <hr> 
 <h3>📚<strong>&nbsp PROJECT</strong></h3>
  <h3>🖥 project : collavore </h3>
  <strong>&nbsp&nbsp開発動機</strong>　： 同一のプラットフォームで作業行う事で業務の効率を最大化する為開発しました。<br>
