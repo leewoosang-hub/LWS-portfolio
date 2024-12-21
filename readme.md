@@ -31,6 +31,7 @@
     <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
      <br>
     <img alt="eclipseide" src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+    <img alt="VScode" src="https://img.shields.io/badge/VScode-2C2255?style=for-the-badge&logo=VScode&logoColor=white">
 </div>
   <hr>
 <h3>📚<strong>&nbsp PROJECT</strong></h3>
@@ -39,6 +40,15 @@
  <strong>&nbsp&nbsp概　　要</strong>　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、 <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp企画管理などを提供します。<br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.09.30 - 2024.11.13<br>
  <strong>&nbsp&nbsp担　　当</strong>　： 電子決裁管理</strong><br>
+ <strong>&nbsp&nbsp詳　　細</strong>&nbsp&nbsp&nbsp&nbsp： <a href="https://github.com/leewoosang-hub/CollaVore/tree/master">電子決裁詳細</a>
+
+<hr>
+
+ <h3>🍕 project : oh! pizza </h3>
+ <strong>&nbsp&nbsp開発動機</strong>　： <br>
+ <strong>&nbsp&nbsp概　　要</strong>　：  <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br>
+ <strong>&nbsp&nbsp開発期間</strong>　： 2024.08.14 - 2024.08.30<br>
+ <strong>&nbsp&nbsp担　　当</strong>　： 注文、問い合わせ</strong><br>
  <strong>&nbsp&nbsp詳　　細</strong>&nbsp&nbsp&nbsp&nbsp： <a href="https://github.com/leewoosang-hub/CollaVore/tree/master">電子決裁詳細</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46B8FF&height=200&section=footer&20render&fontSize=90" />
