@@ -31,7 +31,7 @@
     <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
      <br>
     <img alt="eclipseide" src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-    <img alt="VScode" src="https://img.shields.io/badge/VScode-2C2255?style=for-the-badge&logo=VScode&logoColor=white">
+    <img alt="VScode" src="https://img.shields.io/badge/VScode-019DF4?style=for-the-badge&logo=VScode&logoColor=white">
 </div>
  <hr> 
 <h3>📚<strong>&nbsp PROJECT</strong></h3>
