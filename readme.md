@@ -39,6 +39,7 @@
  <strong>&nbsp&nbsp開発動機</strong>　： 同一のプラットフォームで作業行う事で業務の効率を最大化する為開発しました。<br>
  <strong>&nbsp&nbsp概　　要</strong>　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、 <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp企画管理などを提供します。<br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.09.30 - 2024.11.13<br>
+ <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
  <strong>&nbsp&nbsp担　　当</strong>　： 電子決裁管理</strong><br>
  <strong>&nbsp&nbsp詳　　細</strong>&nbsp&nbsp&nbsp&nbsp： <a href="https://github.com/leewoosang-hub/CollaVore/tree/master">電子決裁詳細</a>
 
@@ -48,6 +49,7 @@
  <strong>&nbsp&nbsp開発動機</strong>　： <br>
  <strong>&nbsp&nbsp概　　要</strong>　： <br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.08.14 - 2024.08.30<br>
+ <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
  <strong>&nbsp&nbsp担　　当</strong>　： 注文、問い合わせ</strong><br>
  <strong>&nbsp&nbsp詳　　細</strong>&nbsp&nbsp&nbsp&nbsp： <a href="https://github.com/leewoosang-hub/CollaVore/tree/master">피자쇼핑몰</a>
 
