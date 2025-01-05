@@ -51,6 +51,6 @@
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.08.14 - 2024.08.30<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
  <strong>&nbsp&nbsp担　　当</strong>　： 注文、問い合わせ</strong><br>
- <strong>&nbsp&nbsp詳　　細</strong>&nbsp&nbsp&nbsp&nbsp： <a href="https://github.com/leewoosang-hub/CollaVore/tree/master">피자쇼핑몰</a>
+ <strong>&nbsp&nbsp詳　　細</strong>&nbsp&nbsp&nbsp&nbsp： <a href="https://github.com/leewoosang-hub/ohpizza">피자쇼핑몰</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46B8FF&height=200&section=footer&20render&fontSize=90" />
