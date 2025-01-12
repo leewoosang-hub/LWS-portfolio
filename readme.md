@@ -53,9 +53,8 @@
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.09.30 - 2024.11.13<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
  <strong>&nbsp&nbsp担　　当</strong>　： 電子決裁管理</strong><br>
- <strong>&nbsp&nbsp詳　　細</strong>&nbsp&nbsp&nbsp&nbsp： <a href="https://github.com/leewoosang-hub/CollaVore/tree/master">電子決裁詳細</a>
- 
-  参考モデル　:　https://biz-solution.hiworks.com/product/function/groupware/approval
+ <strong>&nbsp&nbsp詳　　細</strong>&nbsp&nbsp&nbsp&nbsp： <a href="https://github.com/leewoosang-hub/CollaVore/tree/master">電子決裁詳細</a><br>
+ <strong>&nbsp&nbsp参考モデル<strong> : https://biz-solution.hiworks.com/product/function/groupware/approval
 
 <hr>
 
@@ -78,8 +77,7 @@
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.08.14 - 2024.08.30<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
  <strong>&nbsp&nbsp担　　当</strong>　： 掲示板</strong><br>
- <strong>&nbsp&nbsp詳　　細</strong>&nbsp&nbsp&nbsp&nbsp： <a href="https://github.com/leewoosang-hub/ohpizza">oh! pizza</a>
-
- 参考モデル　:　https://www.pizzahut.co.kr/
+ <strong>&nbsp&nbsp詳　　細</strong>&nbsp&nbsp&nbsp&nbsp： <a href="https://github.com/leewoosang-hub/ohpizza">oh! pizza</a> <br>
+ <strong>&nbsp&nbsp参考モデル<strong>　:　https://www.pizzahut.co.kr/
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46B8FF&height=200&section=footer&20render&fontSize=90" />
