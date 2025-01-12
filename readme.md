@@ -71,11 +71,11 @@
 | Framework | Mybatis, ajax, Bootstrap v5.0             |
 
  <p></p>  
- <strong>&nbsp&nbsp開発動機</strong>　： <br>
- <strong>&nbsp&nbsp概　　要</strong>　： <br>
+ <strong>&nbsp&nbsp開発動機</strong>　： ユーザーが商品を簡単に注文でき、企業が店舗運営や顧客管理を効率的に行えるよう、両者のニーズを満たすプラットフォームとして開発されました。<br>
+ <strong>&nbsp&nbsp概　　要</strong>　： 商品注文、商品レビュー（掲示板）、店舗管理、顧客管理などを提供します。 <br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.08.14 - 2024.08.30<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
- <strong>&nbsp&nbsp担　　当</strong>　： 掲示板、問い合わせ</strong><br>
+ <strong>&nbsp&nbsp担　　当</strong>　： 掲示板</strong><br>
  <strong>&nbsp&nbsp詳　　細</strong>&nbsp&nbsp&nbsp&nbsp： <a href="https://github.com/leewoosang-hub/ohpizza">oh! pizza</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46B8FF&height=200&section=footer&20render&fontSize=90" />
