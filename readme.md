@@ -71,7 +71,7 @@
 | Framework | Mybatis, ajax, Bootstrap v5.0             |
 
  <p></p>  
- <strong>&nbsp&nbsp開発動機</strong>　： ユーザーが商品を簡単に注文でき、企業が店舗運営や顧客管理を効率的に行えるよう、両者のニーズを満たすプラットフォームとして開発されました。<br>
+ <strong>&nbsp&nbsp開発動機</strong>　： ユーザーと企業、両者のニーズを満たす為開発したプラットフォームです。<br>
  <strong>&nbsp&nbsp概　　要</strong>　： 商品注文、商品レビュー（掲示板）、店舗管理、顧客管理などを提供します。 <br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.08.14 - 2024.08.30<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
