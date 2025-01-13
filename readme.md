@@ -42,9 +42,9 @@
 |     分類  |                  名                 　　  |
 |-----------|-------------------------------------------|
 | O/S       | windows 10                                |
+| Language  | JAVA, JAVASCRIPT, CSS3, HTML5             |
 | DB        | oracle DB                                 |
 | Tools     | Github, Eclipse IDE, oracle DBMS, docker  |
-| Language  | JAVA, JAVASCRIPT, CSS3, HTML5             |
 | Framework | Spring framework, Spring security, Jquery, Mybatis, ajax, aws, Bootstrap v5.0 |
 
  <p></p>  
