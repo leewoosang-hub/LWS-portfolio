@@ -43,12 +43,12 @@
 |-----------|-------------------------------------------|
 | O/S       | windows 10                                |
 | Language  | JAVA, JAVASCRIPT, CSS3, HTML5             |
-| DB        | oracle DB                                 |
+| DB        | oracle                                 |
 | Tools     | Github, Eclipse IDE, oracle DBMS, docker  |
 | Framework | Spring framework, Spring security, Jquery, Mybatis, ajax, aws, Bootstrap v5.0 |
 
  <p></p>  
- <strong>&nbsp&nbsp開発動機</strong>　： 同一のプラットフォームで作業行う事で業務の効率を最大化する為開発しました。<br>
+ <strong>&nbsp&nbsp開発動機</strong>　： 아버지가 운영하시는 공장은 구역마다 커뮤니케이션이 <br>
  <strong>&nbsp&nbsp概　　要</strong>　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、 <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp企画管理などを提供します。<br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.09.30 - 2024.11.13<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
