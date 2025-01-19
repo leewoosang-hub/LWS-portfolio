@@ -45,7 +45,7 @@
 | Language  | JAVA, JAVASCRIPT, CSS3, HTML5             |
 | Framework | Spring framework, Spring security, Jquery, Mybatis, AJAX, Bootstrap v5.0 |
 | DB        | oracle DB                             　　|
-| Tools     | Github, Eclipse IDE, oracle DBMS, docker  |
+| Tools     | Github, Eclipse IDE, oracle DBMS,　VScode docker  |
 
  <p></p>  
  <strong>&nbsp&nbsp開発動機</strong>　：　<br>
