@@ -43,7 +43,7 @@
 |-----------|-------------------------------------------|
 | O/S       | windows 10                                |
 | Language  | JAVA, JAVASCRIPT, CSS3, HTML5             |
-| Framework | Spring framework, Spring security, Jquery, Mybatis, ajax, aws, Bootstrap v5.0 |
+| Framework | Spring framework, Spring security, Jquery, Mybatis, AJAX, Bootstrap v5.0 |
 | DB        | oracle DB                             　　|
 | Tools     | Github, Eclipse IDE, oracle DBMS, docker  |
 
