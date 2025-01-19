@@ -16,7 +16,7 @@
   <h3>🛠<strong>&nbsp SKILLS</strong></h3>
 </div>
 <div textalign=center>
-    <img alt="HTML" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="java" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="javascript" src="https://img.shields.io/badge/javascrip-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="jQuery" src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
@@ -31,7 +31,7 @@
     <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
      <br>
     <img alt="eclipseide" src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-    <img alt="VScode" src="https://img.shields.io/badge/VScode-019DF4?style=for-the-badge&logo=VScode&logoColor=white">
+    <img alt="VScode" src="https://img.shields.io/badge/VSCode-019DF4?style=for-the-badge&logo=VScode&logoColor=white">
 </div>
  <hr> 
 <h3>📚<strong>&nbsp PROJECT</strong></h3>
@@ -42,10 +42,10 @@
 |     分類  |                  名                 　　  |
 |-----------|-------------------------------------------|
 | O/S       | windows 10                                |
-| Language  | JAVA, JAVASCRIPT, CSS3, HTML5             |
-| Framework | Spring framework, Spring security, Jquery, Mybatis, AJAX, Bootstrap v5.0 |
+| Language  | Java, JacaScript, CSS3, HTML5             |
+| Framework | Spring framework, Spring security, JQuery, MyBatis, AJAX, Bootstrap v5.0 |
 | DB        | oracle DB                             　　|
-| Tools     | Github, Eclipse IDE, oracle DBMS,　VScode docker  |
+| Tools     | Github, Eclipse IDE, Visual Studio Code, oracle DBMS, docker  |
 
  <p></p>  
  <strong>&nbsp&nbsp開発動機</strong>　：　<br>
@@ -64,8 +64,8 @@
 |     分類  |                  名                 　　  |
 |-----------|-------------------------------------------|
 | O/S       | windows 10                                |
-| Language  | JAVA, JAVASCRIPT, CSS3, HTML5             |
-| Framework | Mybatis, ajax, Bootstrap v5.0             |
+| Language  | JAVA, JavaScript, CSS3, HTML5             |
+| Framework | MyBatis, AJAx, Bootstrap v5.0             |
 | server    | apache tomcat v9.0                        |
 | DB        | oracle DB                                 |
 | Tools     | Github, Eclipse IDE, oracle DBMS          |
