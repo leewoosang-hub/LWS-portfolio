@@ -43,12 +43,12 @@
 |-----------|-------------------------------------------|
 | O/S       | windows 10                                |
 | Language  | JAVA, JAVASCRIPT, CSS3, HTML5             |
-| DB        | oracle                                 |
-| Tools     | Github, Eclipse IDE, oracle DBMS, docker  |
 | Framework | Spring framework, Spring security, Jquery, Mybatis, ajax, aws, Bootstrap v5.0 |
+| DB        | oracle DB                             　　|
+| Tools     | Github, Eclipse IDE, oracle DBMS, docker  |
 
  <p></p>  
- <strong>&nbsp&nbsp開発動機</strong>　： 아버지가 운영하시는 공장은 구역마다 커뮤니케이션이 <br>
+ <strong>&nbsp&nbsp開発動機</strong>　： 아버지가 운영하시는 공장은 구역마다 커뮤니케이션이 부족하여 <br>
  <strong>&nbsp&nbsp概　　要</strong>　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、 <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp企画管理などを提供します。<br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.09.30 - 2024.11.13<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
@@ -64,14 +64,14 @@
 |     分類  |                  名                 　　  |
 |-----------|-------------------------------------------|
 | O/S       | windows 10                                |
+| Language  | JAVA, JAVASCRIPT, CSS3, HTML5             |
+| Framework | Mybatis, ajax, Bootstrap v5.0             |
 | server    | apache tomcat v9.0                        |
 | DB        | oracle DB                                 |
 | Tools     | Github, Eclipse IDE, oracle DBMS          |
-| Language  | JAVA, JAVASCRIPT, CSS3, HTML5             |
-| Framework | Mybatis, ajax, Bootstrap v5.0             |
 
  <p></p>  
- <strong>&nbsp&nbsp開発動機</strong>　： ユーザーと企業、両者のニーズを満たす為開発したプラットフォームです。<br>
+ <strong>&nbsp&nbsp開発動機</strong>　： 배달 어플이 보급되어 기업과 소비자 사이에 직접적인 소통이 사라진 이 시대에 消費者と企業、両者のニーズを満たす為開発したプラットフォームです。<br>
  <strong>&nbsp&nbsp概　　要</strong>　： 商品注文、商品レビュー（掲示板）、店舗管理、顧客管理などを提供します。 <br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.08.14 - 2024.08.30<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
