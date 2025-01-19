@@ -48,6 +48,7 @@
 | Tools     | Github, Eclipse IDE, oracle DBMS, docker  |
 
  <p></p>  
+ <strong>&nbsp&nbsp説　　明</strong>　：　
  <strong>&nbsp&nbsp概　　要</strong>　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、 <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp企画管理などを提供します。<br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.09.30 - 2024.11.13<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
@@ -70,6 +71,7 @@
 | Tools     | Github, Eclipse IDE, oracle DBMS          |
 
  <p></p>  
+ <strong>&nbsp&nbsp説　　明</strong>　：　
  <strong>&nbsp&nbsp概　　要</strong>　： 商品注文、商品レビュー（掲示板）、店舗管理、顧客管理などを提供します。 <br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.08.14 - 2024.08.30<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
