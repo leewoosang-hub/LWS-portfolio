@@ -44,8 +44,8 @@
 | O/S       | windows 10                                |
 | Language  | Java, JacaScript, CSS3, HTML5             |
 | Framework | Spring framework, Spring security, JQuery, MyBatis, AJAX, Bootstrap v5.0 |
-| DB        | oracle DB                             　　|
-| Tools     | Github, Eclipse IDE, Visual Studio Code, oracle DBMS, docker  |
+| DB        | Oracle DB                             　　|
+| Tools     | GitHub, Eclipse IDE, Visual Studio Code, Oracle DBMS, docker  |
 
  <p></p>  
  <strong>&nbsp&nbsp開発動機</strong>　：　<br>
@@ -67,8 +67,8 @@
 | Language  | JAVA, JavaScript, CSS3, HTML5             |
 | Framework | MyBatis, AJAx, Bootstrap v5.0             |
 | server    | apache tomcat v9.0                        |
-| DB        | oracle DB                                 |
-| Tools     | Github, Eclipse IDE, oracle DBMS          |
+| DB        | Oracle DB                                 |
+| Tools     | GitHub, Eclipse IDE, Oracle DBMS          |
 
  <p></p>  
  <strong>&nbsp&nbsp開発動機</strong>　：　<br>
