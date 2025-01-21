@@ -71,7 +71,7 @@
 | Tools     | GitHub, Eclipse IDE, Oracle DBMS          |
 
  <p></p>  
- <strong>&nbsp&nbsp開発動機</strong>　： 배달 어플이 활성화 된 요즘, 유저와 기업의 직접적인 커뮤니케이션이 약해졌습니다. 때문에 사용자와 기업이 직접적으로 커뮤니케이션하며 양측의 니즈를 만족할 수 있는 플랫폼을 개발하였습니다.<br>
+ <strong>&nbsp&nbsp開発動機</strong>　： 出前アプリが普及している現代では、消費者と企業の間で直接的なコミュニケーションが減少しています。<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspそこで、両者が直接コミュニケーションを取り、ニーズを満たすことができるよう、このプラットフォームを開発しました。<br>
  <strong>&nbsp&nbsp概　　要</strong>　： 商品注文、商品レビュー（掲示板）、店舗管理、顧客管理などを提供します。 <br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.08.14 - 2024.08.30<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
