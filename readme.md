@@ -42,10 +42,10 @@
 |     分類  |                  名                 　　  |
 |-----------|-------------------------------------------|
 | O/S       | windows 10                                |
-| Language  | Java, JacaScript, CSS3, HTML5             |
+| Language  | Java, JavaScript, CSS3, HTML5             |
 | Framework | Spring framework, Spring security, JQuery, MyBatis, AJAX, Bootstrap v5.0 |
 | DB        | Oracle DB                             　　|
-| Tools     | GitHub, Eclipse IDE, Visual Studio Code, Oracle DBMS, docker  |
+| Tools     | GitHub, Eclipse IDE, Visual Studio Code, Oracle DBMS, Docker  |
 
  <p></p>  
  <strong>&nbsp&nbsp開発動機</strong>　：　<br>
@@ -65,13 +65,13 @@
 |-----------|-------------------------------------------|
 | O/S       | windows 10                                |
 | Language  | JAVA, JavaScript, CSS3, HTML5             |
-| Framework | MyBatis, AJAx, Bootstrap v5.0             |
+| Framework | MyBatis, AJAX, Bootstrap v5.0             |
 | server    | apache tomcat v9.0                        |
 | DB        | Oracle DB                                 |
 | Tools     | GitHub, Eclipse IDE, Oracle DBMS          |
 
  <p></p>  
- <strong>&nbsp&nbsp開発動機</strong>　：　<br>
+ <strong>&nbsp&nbsp開発動機</strong>　： 배달 어플이 활성화 된 요즘, 유저와 기업의 직접적인 커뮤니케이션이 약해졌습니다. 때문에 사용자와 기업이 직접적으로 커뮤니케이션하며 양측의 니즈를 만족할 수 있는 플랫폼을 개발하였습니다.<br>
  <strong>&nbsp&nbsp概　　要</strong>　： 商品注文、商品レビュー（掲示板）、店舗管理、顧客管理などを提供します。 <br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.08.14 - 2024.08.30<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
