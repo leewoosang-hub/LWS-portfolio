@@ -49,7 +49,7 @@
 
  <p></p>  
  <strong>&nbsp&nbsp開発動機</strong>　：　<br>
- <strong>&nbsp&nbsp概　　要</strong>　： このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、 <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp企画管理などを提供します。<br>
+ <strong>&nbsp&nbsp概　　要</strong>　：  このプラットフォームは人事管理、スケジュール管理、電子決裁管理、プロジェクト管理、 <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp企画管理などを提供します。<br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.09.30 - 2024.11.13<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
  <strong>&nbsp&nbsp担　　当</strong>　： 電子決裁管理</strong><br>
@@ -71,7 +71,7 @@
 | Tools     | GitHub, Eclipse IDE, Oracle DBMS          |
 
  <p></p>  
- <strong>&nbsp&nbsp開発動機</strong>　： 出前アプリが普及している現代では、消費者と企業の間で直接的なコミュニケーションが減少しています。<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspそこで、両者が直接コミュニケーションを取り、ニーズを満たすことができるよう、このプラットフォームを開発しました。<br>
+  <strong>&nbsp&nbsp開発動機</strong>　： 出前アプリが普及している現代では、消費者と企業の間で直接的なコミュニケーションが減少しています。<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspそこで、両者が 直接コミュニケーションを取り、ニーズを満たすことができるよう、このプラットフォームを開発しました。<br>
  <strong>&nbsp&nbsp概　　要</strong>　： 商品注文、商品レビュー（掲示板）、店舗管理、顧客管理などを提供します。 <br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.08.14 - 2024.08.30<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
