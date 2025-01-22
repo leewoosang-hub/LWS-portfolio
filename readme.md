@@ -48,7 +48,7 @@
 | Tools     | GitHub, Eclipse IDE, Visual Studio Code, Oracle DBMS, Docker  |
 
  <p></p>  
- <strong>&nbsp&nbsp開発動機</strong>　：　ピザのショッピングサイトを開発する中で、
+ <strong>&nbsp&nbsp開発動機</strong>　：　ピザのショッピングサイトを開発する中で、 <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
                                          チームメンバーとリソースや進捗状況を共有するためのスペースがなく <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
                                          、効率的な協力が困難でございました。この問題を解決するため、 <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
                                          チーム内で円滑に作業を進められるようなコラボレーションツールを開発いたしました。<br>
