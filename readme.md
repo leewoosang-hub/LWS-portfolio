@@ -18,6 +18,7 @@
 <div textalign=center>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="java" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+     <br>
     <img alt="javascript" src="https://img.shields.io/badge/javascrip-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="jQuery" src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
      <br>
