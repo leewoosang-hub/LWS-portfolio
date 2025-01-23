@@ -3,7 +3,7 @@
 <div>
     <h3>👋<strong>&nbsp INTRO</strong></h3>
     慣れていない技術にも積極的に取り組み、自分のものに出来るように努めます。<br>
-    得意な技術は慢心することなく研鑽を重ね、更なる向上を目指します。<br>
+    得意な技術は慢心することなく勉強を重ね、更なる向上を目指します。<br>
     自己成長を大切にしている<strong><I>イ・ウサン</I></strong>と申します。<br>
     更に詳しい情報は下記のバッジをどうぞ 。<br>
     <a href="https://four-moonstone-851.notion.site/LEE-WOOSANG-fbccf4267b5d4c0a9ce19db384ceac5f?pvs=4"  target="_blank">
