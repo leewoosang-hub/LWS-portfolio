@@ -80,7 +80,7 @@
  <strong>&nbsp&nbsp概　　要</strong>　： 商品注文、商品レビュー（掲示板）、店舗管理、顧客管理などを提供します。 <br>
  <strong>&nbsp&nbsp開発期間</strong>　： 2024.08.14 - 2024.08.30<br>
  <strong>&nbsp&nbsp開発人数</strong>　： 5名<br>
- <strong>&nbsp&nbsp担　　当</strong>　： 掲示板</strong><br>
+ <strong>&nbsp&nbsp担　　当</strong>　： 商品レビュー（掲示板）</strong><br>
  <strong>&nbsp&nbsp詳　　細</strong>&nbsp&nbsp&nbsp&nbsp： <a href="https://github.com/leewoosang-hub/ohpizza">oh! pizza</a> <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46B8FF&height=200&section=footer&20render&fontSize=90" />
