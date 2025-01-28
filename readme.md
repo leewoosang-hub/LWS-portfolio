@@ -69,7 +69,7 @@
 |     分類  |                  名                 　　  |
 |-----------|-------------------------------------------|
 | O/S       | windows 10                                |
-| Language  | JAVA, JavaScript, CSS3, HTML5             |
+| Language  | Java, JavaScript, CSS3, HTML5             |
 | Framework | MyBatis, AJAX, Bootstrap v5.0             |
 | server    | apache tomcat v9.0                        |
 | DB        | Oracle DB                                 |
