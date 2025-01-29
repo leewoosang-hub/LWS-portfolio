@@ -37,17 +37,6 @@
  <hr> 
 <h3>📚<strong>&nbsp PROJECT</strong></h3>
 <h3>🖥 project : collavore </h3>
-<strong>&nbsp&nbsp開発環境</strong>
-
-
-|     分類  |                  名                 　　  |
-|-----------|-------------------------------------------|
-| O/S       | windows 10                                |
-| Language  | Java, JavaScript, CSS3, HTML5             |
-| Framework | Spring framework, Spring security, JQuery, MyBatis, AJAX, Bootstrap v5.0 |
-| DB        | Oracle DB                             　　|
-| Tools     | GitHub, Eclipse IDE, Visual Studio Code, Oracle DBMS, Docker  |
-
  <p></p>  
  <strong>&nbsp&nbsp開発動機</strong>　：ピザのショッピングサイトを開発する中で、 <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
                                         チームメンバーとリソースや進捗状況を共有するためのプラットフォームがなく、<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -63,18 +52,6 @@
 <hr>
 
  <h3>🍕 project : oh! pizza </h3>
- <strong>&nbsp&nbsp開発環境</strong>
-
-
-|     分類  |                  名                 　　  |
-|-----------|-------------------------------------------|
-| O/S       | windows 10                                |
-| Language  | Java, JavaScript, CSS3, HTML5             |
-| Framework | MyBatis, AJAX, Bootstrap v5.0             |
-| server    | apache tomcat v9.0                        |
-| DB        | Oracle DB                                 |
-| Tools     | GitHub, Eclipse IDE, Oracle DBMS          |
-
  <p></p>  
   <strong>&nbsp&nbsp開発動機</strong>　： 出前アプリが普及している現代では、消費者と企業の間で直接的なコミュニケーションが減少して<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspいます。そこで、両者が 直接コミュニケーションを取り、ニーズを満たすことができるよう、<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspこのプラットフォームを開発しました。<br>
  <strong>&nbsp&nbsp概　　要</strong>　： 商品注文、商品レビュー（掲示板）、店舗管理、顧客管理などを提供します。 <br>
