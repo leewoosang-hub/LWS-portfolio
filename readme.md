@@ -6,7 +6,7 @@
     得意な技術は慢心することなく勉強を重ね、更なる向上を目指します。<br>
     自己成長を大切にしている<strong><I>イ・ウサン</I></strong>と申します。<br>
     <br>
-    Java/Spring Frame work를 
+    데이터를 안정적으로 
     更に詳しい情報は下記のバッジをどうぞ 。<br>
     <a href="https://four-moonstone-851.notion.site/LEE-WOOSANG-fbccf4267b5d4c0a9ce19db384ceac5f?pvs=4"  target="_blank">
     <img src="https://img.shields.io/badge/ Profile-Notion-<COLOR>"
