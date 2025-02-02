@@ -1,20 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46B8FF&height=200&section=header&text=LEEWOOSANG'S%20PORTFOLIO&fontSize=40&animation=fadeIn&fontAlign=67&fontAlignY=36" />
 
 <div>
-    <h3>👋<strong>&nbsp INTRO</strong></h3>
-    慣れていない技術にも積極的に取り組み、自分のものに出来るように努めます。<br>
-    得意な技術は慢心することなく勉強を重ね、更なる向上を目指します。<br>
-    自己成長を大切にしている<strong><I>イ・ウサン</I></strong>と申します。<br>
-    <br>
-    데이터를 안정적으로 
-    更に詳しい情報は下記のバッジをどうぞ 。<br>
-    <a href="https://four-moonstone-851.notion.site/LEE-WOOSANG-fbccf4267b5d4c0a9ce19db384ceac5f?pvs=4"  target="_blank">
-    <img src="https://img.shields.io/badge/ Profile-Notion-<COLOR>"
-        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
-</a>
-</div>
-  <hr>
-<div>
   <h3>🛠<strong>&nbsp SKILLS</strong></h3>
 </div>
 <div textalign=center>
